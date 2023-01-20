@@ -1,6 +1,4 @@
-# hackernews-async-ts
-
-[Hacker News](https://news.ycombinator.com/) showcase using typescript && egg
+# dio-user-center
 
 ## QuickStart
 
